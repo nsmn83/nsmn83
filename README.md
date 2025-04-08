@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there, I'm Nikodem 👋<br><br>👨‍🎓 I'm currently pursuing an engineering degree at the Military University of Technology in Warsaw.<br><br>🕹 I'm interested in technology and economics. I enjoy analyzing the world around me.<br><br>🎯 My goal is to become a software engineer and continuously expand my skills.
+## Hi there, I'm Nikodem 👋<br><br> • 👨‍🎓 I'm currently pursuing an engineering degree at the Military University of Technology in Warsaw.<br><br> • 🕹 I'm interested in technology and economics. I enjoy analyzing the world around me.<br><br> • 🎯 My goal is to become a software engineer and continuously expand my skills.
 
 
 # 💻 Tech Stack:
