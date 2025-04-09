@@ -12,7 +12,8 @@ During my studies, I’ve worked on projects using technologies such as:<br><br>
  • [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)<br>
 
 ### 🏗 Projects that I'm working on this semester:
-• 🚗 A Django + React web app to connect passengers, with plans for an Android version.<br>
+• 🚗 A Django + React web app to connect passengers.<br>
+• 🚗 Mobile version of web abb to connect passengers.<br>
 • 📖 A Django + React book review web app that analyzes the emotional tone of reviews using sentiment analysis.<br>
 • 🏀 A Java Swing app for displaying and saving information about your favorite sports teams and players.<br>
 
