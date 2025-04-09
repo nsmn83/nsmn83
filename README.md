@@ -1,5 +1,5 @@
 ## About Me:
- Hi there, I'm Nikodem 👋<br><br> • 👨‍🎓 I'm a CS student pursuing an engineering degree at the Military University of Technology in Warsaw.<br><br> • 📚 I'm interested in technology and economics. I enjoy analyzing the world around me.<br><br> • 🎯 My goal is to become a software engineer and continuously expand my skills.<br><br> • 🗣 I am a native Polish speaker with a C1 level of proficiency in English.<br><br>
+ Hi there, I'm Nikodem 👋<br><br> • I'm a CS student pursuing an engineering degree at the Military University of Technology in Warsaw.<br><br> • I'm interested in technology and economics. I enjoy analyzing the world around me.<br><br> • My goal is to become a software engineer and continuously expand my skills.<br><br> • I am a native Polish speaker with a C1 level of proficiency in English.<br><br>
 
 ### 💻 Tech Stack:
 During my studies, I’ve worked on projects using technologies such as:<br><br>
