@@ -11,12 +11,6 @@ During my studies, I’ve worked on projects using technologies such as:<br><br>
  • [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)<br>
  • [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)<br>
 
-### Projects that I'm working on this semester:
-• A Django + React web app to connect passengers. (2 person project)<br>
-• Mobile version of web abb to connect passengers. (2 person project)<br>
-• A Django + Figma book review web app that analyzes the emotional tone of reviews using sentiment analysis (4 person project).<br>
-• A Java Swing app for displaying and saving information about your favorite sports teams and players.<br>
-
 ### How to find me?:
  • E-mail: [samon.nikodem@gmail.com](mailto:samon.nikodem@gmail.com)<br>
 • LinkedIn: [Nikodem Samoń](https://www.linkedin.com/in/nikodem-samo%C5%84-929767246/)<br>
